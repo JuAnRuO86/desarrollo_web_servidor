@@ -35,6 +35,27 @@
         </h2>
         <p>Crear un formulario que reciba una frase y un número del 1 al 6. Habrá que mostrar la frase en un encabezado de dicho número</p>
     </div>
+
+    <div>
+        <h2>
+            <a href="ejercicio5.php">Ejercicio 5</a>
+        </h2>
+        <p>-.Enunciado.-</p>
+    </div>
+
+    <div>
+        <h2>
+            <a href="ejercicio6.php">Ejercicio 6</a>
+        </h2>
+        <p>Crear un formulario que reciba un número. Devolver en factorial</p>
+    </div>
+
+    <div>
+        <h2>
+            <a href="ejercicio7.php">Ejercicio 7</a>
+        </h2>
+        <p>.-Enunciado-.</p>
+    </div>
 </body>
 </html>
 
